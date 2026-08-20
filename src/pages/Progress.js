@@ -202,7 +202,7 @@ function Progress() {
               ),
       };
     });
-  }, [weeklyTasks]);
+  }, [days]);
 
   return (
     <main
